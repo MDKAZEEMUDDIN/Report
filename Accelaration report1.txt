@@ -1,0 +1,26 @@
+In Acceleration period I have complited few of topics:-
+1)Familiarize Visual Studio
+->It is used for develop computer program,websites,Desktop Application,and Mobile Application
+2)Feature of Visual Studio
+->code Editor
+->Debuger
+->Designer
+->Extensibility
+->Other Tool
+3) Tools like :-
+*)open Browser Tab
+*)object brower
+4)Difrence between .Net and .Net core
+5)Command line palette
+The foremost necessary key combination to graps is ctrl+shift+p that brings up the command palette
+6).Net Two components 
+*)common Language  runtime(CLR)
+*)class libray which includes code for all major areas of application development
+7)compiled Vs interprited langauge 
+8)Win forms:-This used for developing form based application which would run on end user machine
+9)Basic codes of git
+->how add a textfile 
+->To find the branch name
+->To take help configuration
+->mkdirectory(makedirectory)
+->How to add all textfiles
