@@ -24,3 +24,27 @@ The foremost necessary key combination to graps is ctrl+shift+p that brings up t
 ->To take help configuration
 ->mkdirectory(makedirectory)
 ->How to add all textfiles
+10)Functions
+A function is a group of related instructions that performs a specific task.
+->Types of Functions in C#:
+->Basically, there are two types of Functions in C#. They are as follows:
+*)Built-in Functions
+*)User-Defined Functions
+11)Call by Value and Call by Reference in C#
+ ->In.NET Framework by default all the objects are called by value, not called by reference. 
+ whether it is a Value Type Primitive data types like:- int, char, double, etc.or Reference Data Type :-class, interface, delegate, string, etc
+they are by default going to be called by value.
+12)Static and non static keyword
+13)we override the Equals() method of the Object class inside the Customer class When overriding the Equals() method 
+make sure the passed object is not null and can be cast to the type you are comparing 
+When overriding Equals() you also need to override GetHashCode() otherwise you will get a compiler warning.
+14)Convert.ToString and ToString Method 
+Both these methods are used to convert a value to a string The difference is Convert.ToString() method handles null
+and the ToString() doesn’t handle is null
+15)Check and unchecked keywords
+16)Stack and Heap memory
+17)Boxing and Unboxing
+
+
+
+
