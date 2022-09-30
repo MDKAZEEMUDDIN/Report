@@ -44,7 +44,13 @@ and the ToString() doesn’t handle is null
 15)Check and unchecked keywords
 16)Stack and Heap memory
 17)Boxing and Unboxing
-
-
+Date:-29/9/22
+Basics of opps
+->class
+-A class is a user-defined data type that represents both state and behavior The state represents the properties and behavior is the action that objects can performIn other words we can say that a class is the blueprint or plan or template that describes the details of an object  a class is a blueprint from which the individual objects are created. 
+->object
+ It is an instance of a class
+ ->creating a  class and object
+ ->Types of class 
 
 
