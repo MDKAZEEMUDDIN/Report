@@ -52,5 +52,11 @@ Basics of opps
  It is an instance of a class
  ->creating a  class and object
  ->Types of class 
+ Date:-30/9/22
+ ->cunstructor
+ ->Types of constructor
+ ->Static and non Static constructor
+ ->Inheritence
+ ->polymorphism
 
 
