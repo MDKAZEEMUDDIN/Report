@@ -58,5 +58,8 @@ Basics of opps
  ->Static and non Static constructor
  ->Inheritence
  ->polymorphism
+ 3/10/22
+ -> Basic program of Interface 
+ ->Basic program of Inheritence
 
 
