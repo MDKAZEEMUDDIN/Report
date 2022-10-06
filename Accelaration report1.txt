@@ -81,4 +81,25 @@ Static :-> we cannot create a object
 Extension methods must be defined only under the static class If you check our NewClass then you will see that the NewClass is a static class
 The first parameter of an extension method is known as the binding parameter which should be the name of the class to which the method has to be bound and the binding parameter should be prefixed with this As here we are creating these extension methods to extend the functionality of OldClass so you can check the first parameter of all these methods are going to be OldClass which is also prefixed with this keyword
 An extension method can have only one binding parameter and that should be defined in the first place on the paremeter list
+6/10/22
+->properties :-
+*)getter and setter 
+ Exception :-
+Exception Handling is a procedure to handle the exception which occurred during the execution of a program
+->Two types of Exception 
+*)Compile type exception:-The error that occurs in a program at the time of compilation is known as a compilation error
+*)Runtime Exception:-The errors which are occurred at the time of program execution are called runtime errors
+-> try block:-The try keyword establishes a block in which we need to write the exception causing and its related statements
+->catch block :-The catch block is used to catch the exception that is thrown from its corresponding try block
+->finally block:-The keyword finally establishes a block that definitely executes the statements placed in it irrespective of whether any exception has occurred or not
+syntax:-
+try{
+}
+catch(Exception e){
+}
+->enum
+{
+//contains
+}
+
 
