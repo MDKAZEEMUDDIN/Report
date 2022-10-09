@@ -101,5 +101,12 @@ catch(Exception e){
 {
 //contains
 }
+7/10/22
+
+Pawan presentaion :- Topics on class,object,Abstraction ,Interface,polymorphysm,Inheritence 10:30 to 11:30
+Anshika presentaion :- Topics on Accesspicer :-public ,private ,protected,internal
+Ramesh kumar session dout clarification  3:00 to 4:00
+
+
 
 
