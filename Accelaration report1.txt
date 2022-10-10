@@ -107,6 +107,23 @@ Pawan presentaion :- Topics on class,object,Abstraction ,Interface,polymorphysm,
 Anshika presentaion :- Topics on Accesspicer :-public ,private ,protected,internal
 Ramesh kumar session dout clarification  3:00 to 4:00
 
+10/10/22
+
+Today i have have attended the session at 11:00am to 12 by samanta p 
+-> topics on class and object ,Encapsulation,polymorphysm
+and some basics example
+-> And I have attended the session at 12:30pm to 1:10 by Bhushan chandrashekar kolapkar
+Topics on Attributes and Indexer
+->Attributes:-attributes are classes that inherit from the Attribute base class. Any class that inherits from 
+Attribute can be used as a sort of "tag" on other pieces of code For instance there is an attribute called ObsoleteAttribute
+->Indexer:-Indexers allow instances of a class or struct to be indexed just like arrays 
+The indexed value can be set or retrieved without explicitly specifying a type or instance member
+Indexers resemble properties except that their accessors take parameters.
+Presentaion session by :-Gokul topic on partial class
+presentaion session by veneeth:-topics on class and objects 
+different types of class 
+presentation  sesion by Joyti :Exception handling
+
 
 
 
