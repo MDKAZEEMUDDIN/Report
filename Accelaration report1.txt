@@ -125,5 +125,17 @@ different types of class
 presentation  sesion by Joyti :Exception handling
 
 
+11/10/22
+Today I gown throungh C# solid principle 
+->Solid principle are the most design principle for object oriented software development
+Types:-
+*)single Responsibility:-A class can have only single Responsibilty
+*)open/closed:-A class should  be open for extension and but closed for modification
+*)Liskov substituion principle
+*)Integrated segrigation principle 
+*)Depending inversion principle 
+
+
+
 
 
