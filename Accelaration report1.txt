@@ -135,6 +135,18 @@ Types:-
 *)Integrated segrigation principle 
 *)Depending inversion principle 
 
+12/10/22
+->Today session taken by samanta p at 10:30am to 11:10am  and given the instruction about the project 
+->The First taken given by samanta p 
+->Declaring the data fields 
+->The second task given by samanta p by to Initalize the constructor 
+-> I have compited the two task 
+13/10/22
+->Today session taken by samanta p at 11:00am to 12:15pm to review our code which we have perform in the firt two task and 
+->At 1:00pm to 2:20pm session taken by  samanta p and given the third task to declare the methods in the Bank project 
+->At 4:00pm to 5:00 Afsal kc has taken the small session about github
+-> I  have complited the  third task 
+
 
 
 
